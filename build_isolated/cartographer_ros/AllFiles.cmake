@@ -64,10 +64,11 @@
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_taurob_tracker.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/map_ranger.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/offline_backpack_2d.launch
-#/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/offline_backpack_2d_nexteer.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/offline_backpack_3d.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/offline_map_ranger.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/taurob_tracker.launch
+#/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/map_carto_nexteer_1.pgm
+#/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/map_carto_nexteer_1.yaml
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/package.xml
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/scripts
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/scripts/tf_remove_frames.py

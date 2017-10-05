@@ -49,7 +49,12 @@
           -configuration_basename ranger.lua
           -bag_filenames $(arg bag_filenames)"
       output="screen">
-    <remap from="scan" to="$(arg slam_lidar)" />
+    <param name="base_frame"    value="robot" />
+    <param name="map_frame"     value="world" />
+    <param name="odom_frame" value="odom_combined"/>
+    <!--param name="scan_buffer_maximum_scan_distance"  value="55800" /-->
+    <!--param name="scan_buffer_size" value="9999999"/-->
+    <remap from="scan" to="$(arg slam_lidar)"/>
   </node>
 
   <node name="cartographer_occupancy_grid_node" pkg="cartographer_ros"

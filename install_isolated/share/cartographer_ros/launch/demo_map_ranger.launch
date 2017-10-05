@@ -19,9 +19,6 @@
 <launch>
   <param name="/use_sim_time" value="true" />
 
-  <node name="robot_state_publisher" pkg="robot_state_publisher"
-    type="robot_state_publisher" />
-
   <node name="cartographer_node" pkg="cartographer_ros"
       type="cartographer_node" args="
           -configuration_directory
@@ -35,6 +32,7 @@
     <!--param name="scan_buffer_size" value="9999999"/-->
     <remap from="scan" to="$(arg slam_lidar)"/>
   </node>
+
 
   <node name="playbag" pkg="rosbag" type="play"
       args="--clock $(arg bag_filename)">

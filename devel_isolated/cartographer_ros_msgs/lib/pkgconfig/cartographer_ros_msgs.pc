@@ -1,0 +1,8 @@
+prefix=/net/home/francis.james/catkin_ws/devel_isolated/cartographer_ros_msgs
+
+Name: cartographer_ros_msgs
+Description: Description of cartographer_ros_msgs
+Version: 0.2.0
+Cflags: -I/net/home/francis.james/catkin_ws/devel_isolated/cartographer_ros_msgs/include
+Libs: -L/net/home/francis.james/catkin_ws/devel_isolated/cartographer_ros_msgs/lib 
+Requires: geometry_msgs

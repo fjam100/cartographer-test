@@ -317,6 +317,7 @@
 #/net/home/francis.james/catkin_ws/src/cartographer/configuration_files
 #/net/home/francis.james/catkin_ws/src/cartographer/configuration_files/map_builder.lua
 #/net/home/francis.james/catkin_ws/src/cartographer/configuration_files/sparse_pose_graph.lua
+#/net/home/francis.james/catkin_ws/src/cartographer/configuration_files/sparse_pose_graph.lua~
 #/net/home/francis.james/catkin_ws/src/cartographer/configuration_files/trajectory_builder_2d.lua
 #/net/home/francis.james/catkin_ws/src/cartographer/configuration_files/trajectory_builder_3d.lua
 #/net/home/francis.james/catkin_ws/src/cartographer/configuration_files/trajectory_builder.lua

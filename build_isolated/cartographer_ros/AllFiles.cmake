@@ -58,6 +58,7 @@
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_backpack_2d_localization.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_backpack_3d.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_map_ranger.launch
+#/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_map_ranger_remapped.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_map_ranger_troubleshoot.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_pr2.launch
 #/net/home/francis.james/catkin_ws/src/cartographer_ros/cartographer_ros/launch/demo_revo_lds.launch
